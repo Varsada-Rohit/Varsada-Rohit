@@ -1,6 +1,7 @@
 <p align="center"> <b> Hi there 👋</b>
 <br/>
-  <img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/pc.gif?raw=true" height=200/>How to reach me:   <a href="https://www.instagram.com/patel_.rohit/"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/instagram.gif?raw=true" width=30/></a>
+  <img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/pc.gif?raw=true" height=200/>
+  <br/>How to reach me:   <a href="https://www.instagram.com/patel_.rohit/"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/instagram.gif?raw=true" width=30/></a>
 </p>
 <!--
 **Varsada-Rohit/Varsada-Rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

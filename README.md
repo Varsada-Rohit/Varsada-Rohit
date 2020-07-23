@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p>
+  <img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/pc.gif?raw=true" height=200/>
+</p>
 📫 How to reach me: <a href="https://www.instagram.com/patel_.rohit/">Instagram</a>
 <!--
 **Varsada-Rohit/Varsada-Rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

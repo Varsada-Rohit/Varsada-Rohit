@@ -11,8 +11,8 @@
   <img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/work.gif?raw=true" height=200/>
 </div>
 <p align="center">
- <br/> <a href="https://www.instagram.com/patel_.rohit/"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/instagram.png" /></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:varsadarohit@gmail.com"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/gmail.png" height="26" /></a>
+ <br/> <a href="https://www.instagram.com/patel_.rohit/"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/instagram.png" height="26"  /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:varsadarohit@gmail.com"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/gmail (3).png" height="28" /></a>
 </p>
 
 <p align="right">

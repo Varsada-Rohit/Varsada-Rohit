@@ -10,8 +10,11 @@
 <div align="center">
   <img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/work.gif?raw=true" height=200/>
 </div>
-  <br/>How to reach me:   <a href="https://www.instagram.com/patel_.rohit/"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/instagram.gif?raw=true" width="25"/></a>
+<p align="center">
+ <br/> <a href="https://www.instagram.com/patel_.rohit/"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/instagram.png" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:varsadarohit@gmail.com"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/gmail.png" height="26" /></a>
 </p>
+
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Varsada-Rohit&style=plastic&label=Views"><img>
 </p>

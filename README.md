@@ -1,7 +1,19 @@
-<p align="center"> <b> Hello 👋</b>
+<h3 align="center">
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ How are you doing?
+</h3>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=A6C0FF&center=true&vCenter=true&width=435&height=40&lines=Full-stack+web+and+app+developer;1%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
 <br/>
+<div align="center">
   <img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/work.gif?raw=true" height=200/>
-  <br/>How to reach me:   <a href="https://www.instagram.com/patel_.rohit/"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/instagram.gif?raw=true" width=30/></a>
+</div>
+  <br/>How to reach me:   <a href="https://www.instagram.com/patel_.rohit/"><img src="https://github.com/Varsada-Rohit/Varsada-Rohit/blob/master/instagram.gif?raw=true" width="25"/></a>
+</p>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Varsada-Rohit&style=plastic&label=Views"><img>
 </p>
 <!--
 **Varsada-Rohit/Varsada-Rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

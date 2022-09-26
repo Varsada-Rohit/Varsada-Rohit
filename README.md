@@ -18,6 +18,7 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Varsada-Rohit&style=plastic&label=Views"><img>
 </p>
+
 <!--
 **Varsada-Rohit/Varsada-Rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,3 +33,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Varsada-Rohit&show_icons=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Varsada-Rohit)<br/>
+

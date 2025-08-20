@@ -4,7 +4,7 @@
  How are you doing?
 </h3>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=A6C0FF&center=true&vCenter=true&width=435&height=40&lines=Full-stack+web+and+app+developer;1%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=A6C0FF&center=true&vCenter=true&width=435&height=40&lines=Full-stack+web+and+app+developer;4%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <br/>
 <div align="center">
